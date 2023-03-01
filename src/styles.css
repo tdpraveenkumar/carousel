@@ -1,0 +1,9 @@
+.carousel-arrow-next {
+  right: -42px !important;
+}
+.carousel-arrow-prev {
+  left: -42px !important;
+}
+.carousel-arrow {
+  background-color: rgb(226, 0, 0) !important;
+}
